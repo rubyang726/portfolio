@@ -1,0 +1,23 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(assets/cover.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container{
+    font-family: monospace;
+   
+}
+
+canvas{
+    
+    position:absolute;
+    top:500;
+    bottom: 200;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
